@@ -2,8 +2,6 @@
 
 A set of small projects that uses plain HTML, CSS and JavaScript code.
 
-Click [here](https://pedroaugusto-melo.github.io/excursion/) to see the page
-
 ## Table of projects
 
 | ##  | Project                                                                                              |
@@ -12,3 +10,6 @@ Click [here](https://pedroaugusto-melo.github.io/excursion/) to see the page
 | 02  | [Progress Steps](https://github.com/pedroaugusto-melo/mini-projects/tree/main/progress-steps)        |
     
 
+### Reference
+
+These projects were based on [50 Projects 50 days](https://github.com/bradtraversy/50projects50days) Program.
