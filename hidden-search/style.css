@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #7259E6;
+}
+
+#content {
+    margin: 40vh auto;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #FFF;
+    transition: all 0.5s linear;
+}
+
+#content.active {
+    width: 17rem;
+}
+
+#content.active #search-input {
+    display: block;
+}
+
+#search-input {
+    width: 100%;
+    margin: 0;
+    padding: 0.25rem;
+    border: none;
+    display: none;
+}
+
+#search-icon {
+    margin: auto 0;
+    padding: 0.15rem;
+    width: 1.75rem;
+    height: 1.75rem;
+}
+
+#search-icon:hover {
+    cursor: pointer;
+}
