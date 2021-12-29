@@ -8,6 +8,7 @@ A set of small projects that uses plain HTML, CSS and JavaScript code.
 |-----|:----------------------------------------------------------------------------------------------------:|
 | 01  | [Expanding Cards](https://github.com/pedroaugusto-melo/mini-projects/tree/main/expanding-cards)      |
 | 02  | [Progress Steps](https://github.com/pedroaugusto-melo/mini-projects/tree/main/progress-steps)        |
+| 03  | [Rotating Nav Animation](https://github.com/pedroaugusto-melo/mini-projects/tree/main/rotating-nav-animation)|
     
 
 ### Reference
