@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: #4682B4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#form {
+    background-color: #2A4E6C;
+    width: 22.5rem;
+    height: 27.5rem;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    color: #FFF;
+}
+
+#form h1{
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+#email, #password  {
+    color: #FFF;
+    border:  0;
+    border-bottom: 0.1rem solid #FFF;
+    background-color: transparent;
+    outline: 0;
+    padding-bottom: 0.25rem;
+}
+
+#form input:focus {
+    border-bottom-color: #4682B4;
+}
+
+#form label {
+    height: 4.75rem;
+    width: 16.75rem;
+    position: absolute;
+}
+
+#labelEmail {
+    margin-top: 4.75rem;
+}
+
+#labelPassword {
+    margin-top: 10rem;
+}
+
+label span {
+    margin: 0 -0.1rem;
+    display: inline-block;
+    margin-top: 1.5rem;
+    transition: transform 0.1s linear;
+}
+
+#email {
+    margin-bottom: 4rem;
+}
+
+#btnSub {
+    margin: 2.75rem 0 2.5rem 0;
+    background-color: #ADD8E6;
+    font-size: 1.15rem;
+    border: none;
+    border-radius: 0.2rem;
+    height: 3.5rem;
+}
+
+#btnSub:hover {
+    cursor: pointer;
+}
+
+#form a{
+    color: #ADD8E6;
+    text-decoration: none;
+}
