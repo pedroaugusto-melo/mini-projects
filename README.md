@@ -16,6 +16,7 @@ A set of small projects that uses plain HTML, CSS and JavaScript code.
 | 08  | [Form Input Wave](https://github.com/pedroaugusto-melo/mini-projects/tree/main/form-input-wave)|
 | 09  | [Sound Board](https://github.com/pedroaugusto-melo/mini-projects/tree/main/sound-board)|
 | 10  | [Dad Jokes](https://github.com/pedroaugusto-melo/mini-projects/tree/main/dad-jokes)|
+| 11  | [Event KeyCodes](https://github.com/pedroaugusto-melo/mini-projects/tree/main/event-keycodes)|
     
 
 ### Reference
