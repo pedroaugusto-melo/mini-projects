@@ -15,6 +15,7 @@ A set of small projects that uses plain HTML, CSS and JavaScript code.
 | 07  | [Split Landing Page](https://github.com/pedroaugusto-melo/mini-projects/tree/main/split-landing-page)|
 | 08  | [Form Input Wave](https://github.com/pedroaugusto-melo/mini-projects/tree/main/form-input-wave)|
 | 09  | [Sound Board](https://github.com/pedroaugusto-melo/mini-projects/tree/main/sound-board)|
+| 10  | [Dad Jokes](https://github.com/pedroaugusto-melo/mini-projects/tree/main/dad-jokes)|
     
 
 ### Reference
