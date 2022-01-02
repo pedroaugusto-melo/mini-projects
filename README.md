@@ -14,6 +14,7 @@ A set of small projects that uses plain HTML, CSS and JavaScript code.
 | 06  | [Scroll Animation](https://github.com/pedroaugusto-melo/mini-projects/tree/main/scroll-animation)|
 | 07  | [Split Landing Page](https://github.com/pedroaugusto-melo/mini-projects/tree/main/split-landing-page)|
 | 08  | [Form Input Wave](https://github.com/pedroaugusto-melo/mini-projects/tree/main/form-input-wave)|
+| 09  | [Sound Board](https://github.com/pedroaugusto-melo/mini-projects/tree/main/sound-board)|
     
 
 ### Reference
